@@ -1,0 +1,1 @@
+"vite" is a node package which is used for autorefreshing the server.
